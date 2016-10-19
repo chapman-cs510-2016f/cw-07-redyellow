@@ -1,8 +1,8 @@
 # CS510 CW 7
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _Kaiqin Huang, Nengyin Zhu(Helen)_
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-07-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-07-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-07-redyellow.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-07-redyellow)
 
 **Due date:** 2016/10/18
 
@@ -39,7 +39,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**In this session I learned how to plot graph, like inshow, plot. And how to draw amazing mathmatic graph, which is really shocked me. Python is really powerful.**
 
 ## Honor Pledge
 
@@ -50,4 +50,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Kaiqin Huang, Nengyin Zhu(Helen)**
